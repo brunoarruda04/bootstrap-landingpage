@@ -1,0 +1,16 @@
+body {
+  background: url("../../img/backgroundLp.png") right/cover no-repeat;
+  color: #fff;
+}
+
+.formBody {
+  background-color: rgba(19, 18, 18, 0.9450980392);
+  width: 450px;
+  height: auto;
+}
+
+.topLogo {
+  width: 180px;
+}
+
+/*# sourceMappingURL=style.css.map */
