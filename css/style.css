@@ -26,4 +26,17 @@ body {
   border-color: transparent;
 }
 
+@media screen and (max-width: 468px) {
+  .formBody {
+    width: 80%;
+  }
+  .topLogo {
+    width: 100%;
+  }
+  #firstname,
+#secondname {
+    display: none;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
