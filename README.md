@@ -1,4 +1,4 @@
-# 🔵 LandingPage - OneBitCode ™
+# 🔴​ LandingPage - OneBitCode ™
 
 Projeto academico desenvolvido utilizando Sass e Bootstrap, com orientações do Professor Lucas Queiroga
 
