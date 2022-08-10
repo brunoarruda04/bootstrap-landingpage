@@ -13,4 +13,14 @@ body {
   width: 180px;
 }
 
+.buttonSubmit {
+  border-color: #ff0043;
+  color: #ff0043;
+}
+.buttonSubmit:hover {
+  color: #fff;
+  background-color: #ff0043;
+  border-color: transparent;
+}
+
 /*# sourceMappingURL=style.css.map */

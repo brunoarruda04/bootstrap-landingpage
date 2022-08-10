@@ -12,3 +12,14 @@ body {
 .topLogo {
    width: 180px;
 }
+
+.buttonSubmit {
+   border-color: $primary-color;
+   color: $primary-color;
+
+   &:hover {
+      color: $font-color;
+      background-color: $primary-color;
+      border-color: transparent;
+   }
+}
