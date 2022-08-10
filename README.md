@@ -6,7 +6,7 @@ Projeto academico desenvolvido utilizando Sass e Bootstrap, com orientações do
 
 O projeto desenvolvido consiste em uma landing page para inscrição de Astronautas.
 
--Endereço do projeto: https://brunoarruda04.github.io/bootstrap-landingpage/
+-Endereço do projeto: https://bootstrap-landingpage.vercel.app/
 
 # 💻 Tecnologias utilizadas
 
