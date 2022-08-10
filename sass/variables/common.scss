@@ -28,6 +28,10 @@ body {
 }
 
 @media screen and (max-width: 468px) {
+   .body {
+      background-position: center;
+   }
+
    .formBody {
       width: 80%;
    }
