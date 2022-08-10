@@ -1,5 +1,8 @@
 body {
-  background: url("../../img/backgroundLp.png") right/cover no-repeat;
+  background-image: url("../../img/backgroundLp.png");
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
 }
 
